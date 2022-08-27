@@ -34,21 +34,14 @@ public class MainActivity extends AppCompatActivity {
         binding.selectImagebtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-
                 selectImage();
-
-
             }
         });
 
         binding.uploadImagebtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-
                 uploadImage();
-
             }
         });
     }
