@@ -1,8 +1,6 @@
-<pre>
-                <h1>Android Studio Firebase 2022</h1>
-             <h2>Escuela Politécnica Nacional</h2>
-                      <h3>Carlos Quel</h3>
-</pre>
+# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Android Studio Firebase 2022
+## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Escuela Politécnica Nacional
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Carlos Quel
 
 - Capturas del procedimiento, ejecución:
 1. Conexión a Firebase
