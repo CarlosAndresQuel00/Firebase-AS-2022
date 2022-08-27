@@ -1,6 +1,8 @@
-        # Android Studio Firebase 2022
-    ## Escuela Politécnica Nacional
-### Carlos Quel
+<pre>
+                <h1>Android Studio Firebase 2022</h1>
+             <h2>Escuela Politécnica Nacional</h2>
+                      <h3>Carlos Quel</h3>
+</pre>
 
 - Capturas del procedimiento, ejecución:
 1. Conexión a Firebase
